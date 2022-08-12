@@ -1,4 +1,7 @@
-#### This is a game explorer made using GUI (tkinter) that lets the user play one of four games also made in python.  
+### This is a game explorer made using GUI (tkinter) that lets the user play one of four games also made in python.  
+
+<img src="files/preview.png">
+
 ________________________________________________________________________________________________________________
 ### Files/folders needed to run:
 1. pyGame.py
@@ -12,5 +15,12 @@ ________________________________________________________________________________
 4. turtle
 
 Also please remember to turn off restricted mode before running the program! 
-
 _________________________________________________________________________________________________________________
+
+## Features: 
+* Shows picture of preview of games. 
+* Shows instructions before game launch. 
+* Allows user to set thier name before game launch.
+
+## What I learned/used: 
+* Python: tkinter, pygame, turtle, numpy
