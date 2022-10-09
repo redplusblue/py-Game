@@ -1,4 +1,11 @@
-### This is a game explorer made using GUI (tkinter) that lets the user play one of four games also made in python.  
+### Game explorer with GUI (tkinter) that lets the user play one of four games also made in python.  
+
+<table>
+  <td align="center"><b>Made using:</b></td>
+  <td> 
+    <img title="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+  </td>
+</table>
 
 <img src="files/preview.png">
 
